@@ -11,6 +11,8 @@ Este taller se puede divide en varias partes:
 
 El material incluye 
 
-- [PDFs de las transparencias](pdf/presentation-parte1.pdf)
+- PDFs de las transparencias 
+  - [Parte 1](pdf/presentation-parte1.pdf)
+  - [Parte 1](pdf/presentation-parte2.pdf)
 - [Ejemplos con weka](src-weka)
 - [Ejemplos seleccionados/adaptados de sklearn](src-sklearn) 
