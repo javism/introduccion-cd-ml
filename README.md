@@ -1,4 +1,4 @@
-# introduccion-cd-ml
+# Introducción a la Ciencia de Datos y el Aprendizaje Automático
 
 Material del taller de introducción a la ciencia de datos y al aprendizaje automático para el Aula de Software Libre de la Universidad de Córdoba. 
 
